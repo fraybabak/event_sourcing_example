@@ -8,3 +8,9 @@ this example is a simple event store that uses a file to store events. it is not
 npm i
 npm start
 ```
+
+## test
+
+```bash
+npm test
+```
